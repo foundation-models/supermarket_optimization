@@ -7,7 +7,7 @@ THRESHOLD = 3
 
 class RepeatedTransactions:
     """
-    Detail description of file is in
+    Detail description of file is in https://github.com/hossein20s/supermarket_optimization/
     """
 
     def __init__(self, sigma, input_file='input.dat', output_file='output.dat'):
@@ -30,6 +30,7 @@ class RepeatedTransactions:
         """
         find frequent tuples and write them to a file
         :return:
+            None
         """
         with open(self.output_file, 'w') as file:
             for key, value in self.map.items():
