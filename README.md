@@ -1,4 +1,4 @@
-# frquentTransactions
+# Supermarket Optimizartion
 
 You are given as input:
 You’ve been hired as a market consultant to try and help a local supermarket come up with better placement of items based on buyer’s preferences, and towards that goal you’d like to identify certain association rules based on existing records of buyer’s transactions. 
